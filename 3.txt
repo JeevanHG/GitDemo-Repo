@@ -1,2 +1,4 @@
 Happy to see you here...
-Enjou the Git learning$
+Enjoy the Git learning
+
+The message was corrected
